@@ -1,0 +1,18 @@
+
+app_names = [
+  'my-stage-app',
+  'my-beta-app',
+  'client1-instance',
+  'client2-instance',
+  'shared-instance'
+]
+
+worker_names = [
+  'web',
+  'worker_analytics',
+  'worker_reports',
+  'worker_search',
+  'worker_geocode',
+  'worker_notifications',
+  'clock'
+]
