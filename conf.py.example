@@ -1,9 +1,9 @@
 
 app_names = [
-  'my-stage-app',
-  'my-beta-app',
-  'client1-instance',
-  'client2-instance',
+  # 'my-stage-app',
+  # 'my-beta-app',
+  # 'client1-instance',
+  # 'client2-instance',
   'shared-instance'
 ]
 
